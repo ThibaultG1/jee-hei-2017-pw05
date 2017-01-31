@@ -14,6 +14,9 @@
 
   <modules>
   	<module>tp05-core</module>
+      <module>tp05-server</module>
+      <module>tp05-contract</module>
+      <module>tp05-client</module>
   </modules>
   
   <build>
